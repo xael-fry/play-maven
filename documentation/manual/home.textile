@@ -36,6 +36,6 @@ bc. play mvn:refresh // or play mvn:re
 
 clears your app/lib folder first, then it executes play mvn:up 
 
-bc. play mvn:source // or play mvn:src
+bc. play mvn:sources // or play mvn:src
 
 retrieves all sources (if available) of defined dependencies and then it copies them into app/lib folder
